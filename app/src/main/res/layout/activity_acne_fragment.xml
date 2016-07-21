@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_acne_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ca.mobileappsolutions.stewardmedicine.AcneFragment"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="vertical"
+        android:weightSum="1">
+        <TextView
+            android:text="@string/ance_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:id="@+id/acneText1"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            android:paddingBottom="20dp"/>
+        <TextView
+            android:text="@string/ance_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="16sp"
+            android:id="@+id/acneText2"
+            android:textColor="@color/text_color"
+            android:paddingBottom="15dp"/>
+        <WebView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/webview1">
+
+        </WebView>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

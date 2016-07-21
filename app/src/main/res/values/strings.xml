@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Steward Medicine</string>
+    <string name="action_settings">Settings</string>
+    <string name="ance_1">Here is a general outline on acne and how to treat it.</string>
+    <string name="ance_2">KEY POINT: remember that pimples tend to come and go over a 4-6 week time frame. Treating the acne today does not make the current pimples go away. Instead, the treatments you put on today prevent the future pimples from starting. So it takes at least 4-6 weeks of treatment to start seeing results.</string>
+    <string name="acne_video"><![CDATA[<html><body><iframe width="%1$f" height="%2$f" src="https://www.youtube.com/embed/C5Co4czoo5s" frameborder="0" </iframe></body></html>]]></string>
+    <string name="heart_agina_1">** IMPORTANT **</string>
+    <string name="heart_agina_2">• If you are worried that you may be having a heart attack, call 9-1-1 immediately or go to the closest Emergency Department.</string>
+    <string name="heart_agina_3">• Do NOT waste valuable time by going to your family doctor’s office.</string>
+    <string name="heart_agina_4">• TIME IS CRUCIAL. Too often, patients waste valuable time by waiting to book an appointment with their family doctor, or walking in to their family doctor’s office. Instead, go to the ER directly!</string>
+    <string name="heart_agina_5">WHAT IS HEART DISEASE?</string>
+    <string name="heart_agina_6">Your heart is a muscle that gets energy from blood carrying oxygen. Your heart needs a constant supply of blood to keep working properly. Coronary artery disease develops when a combination of fatty materials and scar tissue (called “plaque”) builds up in the blood vessels that supply blood to your heart. The plaque buildup narrows the arteries and prevents the heart from getting enough blood.</string>
+    <string name="heart_agina_7">Here are a few brief videos to help explain heart attacks and angina:</string>
+    <string name="heart_agina_8">THE FOLLOWING ARE SIGNS OF HAVING A HEART ATTACK:</string>
+    <string name="heart_agina_9">(click the picture for even more information)</string>
+    <string name="heart_agina_10">FOR MORE INFORMATION:</string>
+    <string name="heart_agina_11">Check out the Heart &amp; Stroke Foundation’s website.</string>
+    <string name="heart_attack_video"><![CDATA[<html><body><iframe width="%1$f" height="%2$f" src="https://www.youtube.com/embed/LA2DuxCcO4g" frameborder="0" </iframe></body></html>]]></string>
+    <string name="angina_video"><![CDATA[<html><body><iframe width="%1$f" height="%2$f" src="https://www.youtube.com/embed/7PsDK2R95Sg" frameborder="0" </iframe></body></html>]]></string>
+    <string name="heart_attack_symptoms_video"><![CDATA[<html><body><iframe width="%1$f" height="%2$f" src="https://www.youtube.com/embed/o3RFrAKD1O4" frameborder="0" </iframe></body></html>]]></string>
+    <string name="angina_and_chest_pains_video"><![CDATA[<html><body><iframe width="%1$f" height="%2$f" src="https://www.youtube.com/embed/5ClUXbLpu1M" frameborder="0" </iframe></body></html>]]></string>
+    <string name="annual_phyical_1">WHY YOU DON\&apos;T NEED AN ANNUAL PHYSICAL:</string>
+    <string name="annual_phyical_2">• The old &quot;Annual Physical&quot; used to be a visit when the doctor could review your file to ensure that all routine tests were up to date.</string>
+    <string name="annual_phyical_3">• With the computers in our office, we always have reminders that tell us when your tests are overdue. Therefore, an “Annual Physical” is no longer required for this purpose.</string>
+    <string name="annual_phyical_4">• The “Annual Physical” was also a time for a complete ‘head-to-toe’ examination. However, research has shown that this type of exam does not provide any benefit.</string>
+    <string name="annual_phyical_5">• Sometimes, people confuse the term “Annual Physical” with exams like their “PAP smear” test. Please note that these are not the same thing. Women from 21 to 70 years of age should still have a PAP smear test every three years, or yearly if you have ever had an abnormal PAP smear in the past.</string>
+    <string name="annual_phyical_6">&quot;MORE&quot; IS NOT ALWAYS BETTER ...</string>
+    <string name="annual_phyical_7">Also, CLICK HERE for more information on why physicals are no longer suggested.</string>
+    <string name="annual_phyical_8">INSTEAD OF ASKING TO BOOK A &quot;PHYSICAL&quot; ...</string>
+    <string name="annual_phyical_9">• Ask to book a visit for a specific concern(s) that you may have.</string>
+    <string name="annual_phyical_10">• Ask if you have any blood work, tests, or cancer screens that are overdue. These can often be booked without actually seeing your doctor.</string>
+    <string name="annual_phyical_11">• Ask to book a visit for a PAP test if that is what you are specifically concerned about.</string>
+    <string name="annual_phyical_12"> or  of the same. **</string>
+    <string name="annual_physical_video"><![CDATA[<html><body><iframe width="%1$f" height="%2$f" src="https://www.youtube.com/embed/8c7qTsVVxXw" frameborder="0" </iframe></body></html>]]></string>
+    <string name="asthma_1">WHAT IS ASTHMA?</string>
+    <string name="asthma_2">The symptoms of asthma include:</string>
+    <string name="asthma_3">• Shortness of breath</string>
+    <string name="asthma_4">• Tightness in the chest</string>
+    <string name="asthma_5">• Coughing</string>
+    <string name="asthma_6">• Wheezing.</string>
+    <string name="asthma_7">Click here for even more information on “What is asthma?”</string>
+    <string name="asthma_8">HOW DO YOU TREAT ASTHMA?</string>
+    <string name="asthma_9">• Inhaled (puffer) medications. (See below for more information on puffers).</string>
+    <string name="asthma_10">• Sometimes, for specific cases of asthma, your doctor may prescribe oral medications, like Singulair.</string>
+    <string name="asthma_11">HOW DO THE PUFFERS HELP YOUR ASTHMA?</string>
+    <string name="asthma_12">There are 2 main types of puffer medications:</string>
+    <string name="asthma_13">1) <u>Bronchodilators</u>: these medications <i>dilate</i> your airways. In there words, they relax them; they open them up; they make them <i>wider</i> or <i>larger</i>. This allows you to breathe more air into your lungs. Bronchodilator medications are a quick “rescue” help for your asthma. They make you feel better quickly, but only temporarily.  They do not prevent the underlying inflammation that causes asthma attacks.</string>
+    <string name="asthma_14">Click here for more information on these “rescue” puffers.</string>
+    <string name="asthma_15">2) <u>Inhaled Steroids</u>: these decrease the <i>inflammation</i> in your airways. They get at the root cause of asthma. They take time (days to weeks) to take effect and they must be taking regularly every day in order to help you.</string>
+    <string name="asthma_16">Click here for more information on inhaled steroid puffers. </string>
+    <string name="asthma_17">The following video nicely explains how these two types of puffers work. The video is intended for children, but it still shows clear and useful information for adults too!:</string>
+    <string name="asthma_18">HOW DO YOU TAKE YOUR PUFFERS?</string>
+    <string name="asthma_19">HOW DO YOU KNOW IF YOUR ASTHMA IS UNDER CONTROL?</string>
+    <string name="asthma_20">The goals of asthma control are:</string>
+    <string name="asthma_21">• Requiring your “reliever” (“rescue”) inhalers as little as possible – 3 or less times per WEEK.</string>
+    <string name="asthma_22">• <u>Never</u> having asthma symptoms at night.</string>
+    <string name="asthma_23">• Your asthma is <u>not</u> affecting your physical activity or ability to exercise.</string>
+    <string name="asthma_24">• Flares of your asthma are mild and infrequent.</string>
+    <string name="asthma_25">• You <u>never</u> have to miss school nor work because of your asthma.</string>
+    <string name="asthma_26">*** If you are not meeting ALL the above goals, then your asthma is NOT under proper control and you should return to see your doctor or health care provider. ***</string>
+    <string name="asthma_27">FOR MORE INFORMATION, VISIT THE FOLLOWING WEBSITES:</string>
+    <string name="asthma_28">The Asthma Society of Canada</string>
+    <string name="asthma_29">The Canadian Thoracic Society</string>
+    <string name="asthma_vid_1"><![CDATA[<html><body><iframe width="%1$f" height="%2$f" src="https://www.youtube.com/embed/7EDo9pUYvPE" frameborder="0" </iframe></body></html>]]></string>
+    <string name="asthma_vid_2"><![CDATA[<html><body><iframe width="%1$f" height="%2$f" src="https://www.youtube.com/embed/Et_alsghel8" frameborder="0" </iframe></body></html>]]></string>
+    <string name="benzodiazepine_1">Benzodiazepines (also known as “benzos“) are a type of medication that some people take for sleep, anxiety, or relaxation.</string>
+    <string name="benzodiazepine_2">Here are the names of some commonly prescribed benzodiazepines, or similar types of medications:</string>
+    <string name="benzodiazepine_3">• Alprazolam (“Xanax”)</string>
+    <string name="benzodiazepine_4">• Chlordiazepoxide (“Librium”)</string>
+    <string name="benzodiazepine_5">• Clobazam (“Frisium”)</string>
+    <string name="benzodiazepine_6">• Diazepam (“Valium”)</string>
+    <string name="benzodiazepine_7">• Lorazepam (“Ativan”)</string>
+    <string name="benzodiazepine_8">• Nitrazepam (“Nitrazadon”)</string>
+    <string name="benzodiazepine_9">• Oxazepam (“Serax” or “Zapex”)</string>
+    <string name="benzodiazepine_10">• Temazepam (“Restoril”)</string>
+    <string name="benzodiazepine_11">• Triazolam (“Halcion”)</string>
+    <string name="benzodiazepine_12">• Zopiclone (“Imovane”)</string>
+    <string name="benzodiazepine_13">• Zolpidem (“Ambien”)</string>
+    <string name="benzodiazepine_14">Often people start taking these medications on an “as needed” basis. However, over time, people often start taking them more and more and unfortunately start taking them <i>regularly</i> every day or night. This is because these medications can cause ADDICTION and DEPENDENCE.</string>
+    <string name="benzodiazepine_15">For people who take these medications to help sleep, they start to forget how to sleep naturally on their own.</string>
+    <string name="benzodiazepine_16">These medications are also not recommended for long term treatment of anxiety.</string>
+    <string name="benzodiazepine_17">Click here for even more information.</string>
+    <string name="benzodiazepine_18">THESE MEDICATIONS CAUSE HARM:</string>
+    <string name="benzodiazepine_19">• 5 times greater risk of memory or concentration problems!</string>
+    <string name="benzodiazepine_20">• 4 times great risk of daytime fatigue or tiredness!</string>
+    <string name="benzodiazepine_21">• 2 times great risk of falls and bone fractures (hip &amp; wrist)!</string>
+    <string name="benzodiazepine_22">• 2 times great risk of having a motor vehicle accident!</string>
+    <string name="benzodiazepine_23">RISK OF ALZHEIMER’S DISEASE:</string>
+    <string name="benzodiazepine_24">Studies show that use of benzodiazepines is associated with greater risk of developing Alzheimer’s Disease:</string>
+    <string name="benzodiazepine_25">• Click here for Article #1 </string>
+    <string name="benzodiazepine_26">• Click here for Article #2</string>
+    <string name="benzodiazepine_27">FOR ALL OF THESE REASON’S, DR. STEWART DOES NOT RECOMMEND THESE MEDICATIONS FOR LONG-TERM, EVERY DAY USE.</string>
+    <string name="benzodiazepine_28">In fact, Dr. Stewart suggests avoiding these medications all together.</string>
+
+
+
+
+    <string-array name="nav_drawer_items">
+        <item>Acne</item>
+        <item>Angina</item>
+        <item>Annual Physicals</item>
+        <item>Asthma</item>
+        <item>Benzodiazepines</item>
+        <item>Back Pain</item>
+        <item>Colon Cancer Screening</item>
+        <item>Concussions</item>
+        <item>Coughs, Colds &amp; Sore Throats</item>
+        <item>Depression</item>
+        <item>Diabetes</item>
+        <item>Diarrhea</item>
+        <item>Ear Infections</item>
+        <item>Fever</item>
+        <item>Financial Strain</item>
+        <item>Headaches</item>
+        <item>Heart Attacks</item>
+        <item>Liver</item>
+        <item>Metamucil</item>
+        <item>Osteoporosis</item>
+        <item>Over-The-Counter Medications</item>
+        <item>Pain</item>
+        <item>Pink Eye</item>
+        <item>Prostate Cancer</item>
+        <item>Shingles Vaccine</item>
+        <item>Shoulder Pain</item>
+        <item>Skin Spots</item>
+        <item>Sleep</item>
+        <item>Smoking</item>
+        <item>Strokes</item>
+        <item>Weight Loss</item>
+    </string-array>
+</resources>

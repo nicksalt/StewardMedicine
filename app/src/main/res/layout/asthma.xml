@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_acne_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            android:text="@string/asthma_1"
+            android:textSize="16sp" />
+
+        <WebView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/asthma_vid_1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/asthma_link_1"
+            android:layout_marginTop="25dp"
+            android:textColorLink="@color/colorPrimary"
+            android:textSize="16sp"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/asthma_2"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/asthma_3"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/asthma_4"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/asthma_5"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="15dp"
+            android:text="@string/asthma_6"
+            android:textSize="16sp" />
+        <TextView
+            android:text="@string/asthma_7"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="15sp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="30dp"
+            android:clickable="true"
+            android:id="@+id/asthma_button_1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            android:text="@string/asthma_8"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/asthma_link_2"
+            android:textSize="16sp"
+            android:textColorLink="@color/colorPrimary"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/asthma_9"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="30dp"
+            android:text="@string/asthma_10"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            android:text="@string/asthma_11"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp"
+            android:text="@string/asthma_12"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp"
+            android:text="@string/asthma_13"
+            android:textSize="16sp" />
+        <TextView
+            android:text="@string/asthma_14"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:background="@android:color/transparent"
+            android:paddingBottom="10dp"
+            android:clickable="true"
+            android:id="@+id/asthma_button_2" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/puffer_blue"
+            android:layout_gravity="center"
+            android:layout_marginBottom="15dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp"
+            android:text="@string/asthma_15"
+            android:textSize="16sp" />
+        <TextView
+            android:text="@string/asthma_16"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="15sp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="10dp"
+            android:gravity="center"
+            android:clickable="true"
+            android:id="@+id/asthma_button_3" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/red_puffer"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp"
+            android:text="@string/asthma_17"
+            android:textSize="16sp" />
+        <WebView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/asthma_vid_2"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textStyle="bold"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:text="@string/asthma_18"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/asthma_link_3"
+            android:textSize="16sp"
+            android:textColorLink="@color/colorPrimary"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/asthma_link_4"
+            android:textSize="16sp"
+            android:textColorLink="@color/colorPrimary"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/asthma_link_5"
+            android:textSize="16sp"
+            android:textColorLink="@color/colorPrimary"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/asthma_link_6"
+            android:textSize="16sp"
+            android:textColorLink="@color/colorPrimary"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/asthma_link_7"
+            android:textSize="16sp"
+            android:textColorLink="@color/colorPrimary"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            android:text="@string/asthma_19"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp"
+            android:text="@string/asthma_20"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/asthma_21"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/asthma_22"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/asthma_23"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/asthma_24"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="15dp"
+            android:text="@string/asthma_25"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:text="@string/asthma_26"
+            android:textSize="15sp" />
+        <ImageView
+            android:layout_width="253dp"
+            android:layout_height="266dp"
+            android:src="@drawable/redflag"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            android:text="@string/asthma_27"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/asthma_button_4"
+            android:textSize="16sp"
+            android:text="@string/asthma_28"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginBottom="5dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/asthma_button_5"
+            android:textSize="16sp"
+            android:text="@string/asthma_29"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginBottom="5dp" />
+
+
+
+
+    </LinearLayout>
+</ScrollView>
