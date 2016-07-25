@@ -14,241 +14,209 @@
         android:paddingTop="@dimen/activity_vertical_margin"
         android:orientation="vertical"
         android:weightSum="1">
-
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="@color/text_color"
             android:layout_marginBottom="15dp"
-            android:text="@string/benzodiazepine_1"
+            android:text="@string/back_pain_1"
             android:textSize="16sp" />
-        <TextView
+        <WebView
             android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/back_pain_vid_1"/>
+        <TextView
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="@color/text_color"
-            android:layout_marginBottom="10dp"
-            android:text="@string/benzodiazepine_2"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_3"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_4"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_5"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_6"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_7"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_8"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_9"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_10"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_11"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_12"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="10dp"
-            android:text="@string/benzodiazepine_13"
-            android:textSize="16sp" />
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/benzodiazepine"
             android:layout_marginBottom="30dp"
-            android:layout_gravity="center"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="10dp"
-            android:text="@string/benzodiazepine_14"
+            android:layout_marginTop="30dp"
+            android:text="@string/back_pain_2"
             android:textSize="16sp" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/text_color"
             android:layout_marginBottom="10dp"
-            android:text="@string/benzodiazepine_15"
+            android:text="@string/back_pain_3"
             android:textSize="16sp" />
         <TextView
-            android:layout_width="wrap_content"
+            android:text="@string/back_pain_4"
             android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="10dp"
-            android:text="@string/benzodiazepine_16"
-            android:textSize="16sp" />
-        <TextView
-            android:text="@string/benzodiazepine_17"
-            android:layout_height="wrap_content"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:textColor="@color/colorPrimary"
             android:textSize="15sp"
             android:background="@android:color/transparent"
-            android:paddingBottom="15dp"
+            android:paddingBottom="10dp"
             android:clickable="true"
-            android:id="@+id/benzodiazepine_button_1" />
+            android:id="@+id/back_pain_button_1" />
         <ImageView
-            android:layout_width="330dp"
-            android:layout_height="220dp"
-            android:src="@drawable/sleep1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/backpain_1"
+            android:layout_marginBottom="30dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp"
+            android:text="@string/back_pain_5"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_6"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="10dp"
+            android:textColorLink="@color/colorPrimary"
+            android:id="@+id/back_pain_link_1"
+            android:textSize="17sp" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/backpain_2"
             android:layout_marginBottom="30dp"
             android:layout_gravity="center"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/text_color"
-            android:textStyle="bold"
             android:layout_marginBottom="10dp"
-            android:text="@string/benzodiazepine_18"
+            android:text="@string/back_pain_7"
             android:textSize="16sp" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/text_color"
             android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_19"
+            android:textColorLink="@color/colorPrimary"
+            android:id="@+id/back_pain_link_2"
             android:textSize="16sp" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/text_color"
             android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_20"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="5dp"
-            android:text="@string/benzodiazepine_21"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="15dp"
-            android:text="@string/benzodiazepine_22"
+            android:textColorLink="@color/colorPrimary"
+            android:id="@+id/back_pain_link_3"
             android:textSize="16sp" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/text_color"
             android:layout_marginBottom="30dp"
-            android:textColorLink="@color/colorPrimary"
-            android:id="@+id/benzodiazepine_link_1"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:textStyle="bold"
-            android:layout_marginBottom="10dp"
-            android:text="@string/benzodiazepine_23"
+            android:text="@string/back_pain_8"
             android:textSize="16sp" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/text_color"
             android:layout_marginBottom="10dp"
-            android:text="@string/benzodiazepine_24"
+            android:text="@string/back_pain_9"
             android:textSize="16sp" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@color/colorPrimary"
+            android:textColor="@color/text_color"
             android:layout_marginBottom="5dp"
-            android:clickable="true"
-            android:id="@+id/benzodiazepine_button_2"
-            android:text="@string/benzodiazepine_25"
+            android:text="@string/back_pain_10"
             android:textSize="16sp" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@color/colorPrimary"
-            android:layout_marginBottom="30dp"
-            android:clickable="true"
-            android:id="@+id/benzodiazepine_button_3"
-            android:text="@string/benzodiazepine_26"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_11"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_10"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_12"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_13"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_14"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_15"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_10"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_16"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_17"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_18"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="5dp"
+            android:text="@string/back_pain_19"
             android:textSize="16sp" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/text_color"
             android:layout_marginBottom="10dp"
-            android:text="@string/benzodiazepine_27"
+            android:text="@string/back_pain_20"
             android:textSize="16sp" />
-        <TextView
+        <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:layout_marginBottom="10dp"
-            android:text="@string/benzodiazepine_28"
-            android:textSize="16sp" />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/text_color"
-            android:textColorLink="@color/colorPrimary"
-            android:id="@+id/benzodiazepine_link_2"
-            android:textSize="16sp" />
-
+            android:src="@drawable/redflag"
+            android:layout_gravity="center"/>
 
     </LinearLayout>
 </ScrollView>
-

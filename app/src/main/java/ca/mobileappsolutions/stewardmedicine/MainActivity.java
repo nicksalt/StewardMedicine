@@ -117,6 +117,18 @@ public class MainActivity extends Activity {
             case 3:
                 fragment = new AsthmaFragment();
                 break;
+            case 4:
+                fragment = new BackPainFragment();
+                break;
+            case 5:
+                fragment = new BenzodiazepineFragment();
+                break;
+            case 6:
+                fragment = new ColonCancerScreeningFragment();
+                break;
+            case 7:
+                fragment = new ConcussionFragment();
+                break;
             default:
                  break;
         }

@@ -280,4 +280,10 @@ public class AsthmaFragment extends Fragment {
         displayYoutubeVideo2.loadData(frameVideo2, "text/html", "null");
 
     }
+    @Override
+    public void onPause(){
+        super.onPause();
+        displayYoutubeVideo1.onPause();
+        displayYoutubeVideo2.onPause();
+    }
 }

@@ -91,8 +91,92 @@
     <string name="benzodiazepine_26">• Click here for Article #2</string>
     <string name="benzodiazepine_27">FOR ALL OF THESE REASON’S, DR. STEWART DOES NOT RECOMMEND THESE MEDICATIONS FOR LONG-TERM, EVERY DAY USE.</string>
     <string name="benzodiazepine_28">In fact, Dr. Stewart suggests avoiding these medications all together.</string>
-
-
+    <string name="back_pain_1">Low Back Pain is one of the most common reasons people go to see their doctor. The following is a “must see” video for all!</string>
+    <string name="back_pain_2">* NOTE: in the second half of the video above, Dr. Evans explains why most people should <u>NOT</u> get an X-ray, CT scan or MRI for low back pain.</string>
+    <string name="back_pain_3">ANOTHER WEBSITE:</string>
+    <string name="back_pain_4">Check out BACK CARE CANADA to learn even more about back pain.</string>
+    <string name="back_pain_5">IMPORTANT VIDEOS TO WATCH:</string>
+    <string name="back_pain_6">If back pain has been a major problem for you, Dr. Stewart strongly recommends that you also watch the following video series by Dr. Hamilton Hall: </string>
+    <string name="back_pain_7">WHAT YOU CAN DO FOR PAIN CONTROL:</string>
+    <string name="back_pain_8">Strongly consider PHYSIOTHERAPY for severe, persisting, or recurrent back pain.</string>
+    <string name="back_pain_9">REASONS TO SEE A DOCTOR (The “Red Flags”):</string>
+    <string name="back_pain_10">• If your pain started with a big fall or accident and you fear a bone may be broken.</string>
+    <string name="back_pain_11">• New trouble urinating (since your back pain started).</string>
+    <string name="back_pain_12">• New leakage or incontinence of bowels (since your back pain started).</string>
+    <string name="back_pain_13">• Numbness around your groin or genitals.</string>
+    <string name="back_pain_14">• Weakness in your legs (NOTE: this refers to a true decrease in power, not just “weakness because of the pain).</string>
+    <string name="back_pain_15">• Persisting fever with back pain.</string>
+    <string name="back_pain_16">• History of IV drug use.</string>
+    <string name="back_pain_17">• Unexplained weight loss.</string>
+    <string name="back_pain_18">• Drenching night sweats (bad enough you have to change your clothing).</string>
+    <string name="back_pain_19">• History of cancer (prostate, breast, or lung) and</string>
+    <string name="back_pain_20">• Your pain is constant over many weeks or months, even during the night or with rest.</string>
+    <string name="back_pain_vid_1"><![CDATA[<html><body><iframe width="%1$f" height="%2$f" src="https://www.youtube.com/embed/BOjTegn9RuY" frameborder="0" </iframe></body></html>]]></string>
+    <string name="colon_cancer_screening_1">What is Colon Cancer?</string>
+    <string name="colon_cancer_screening_2">Colon cancer starts as a small “polyp” (like a skin-tag) inside a person’s colon wall. Over time, the polyp can grow into a colon cancer. This is a slow process. It can take many years to develop. We generally screen for polyps and colon cancer between the ages of 50 to 74 because that is when most people tend to develop them.</string>
+    <string name="colon_cancer_screening_3">There are two main ways to screen for colon cancer:</string>
+    <string name="colon_cancer_screening_4">(i) A Fecal Occult Blood Test</string>
+    <string name="colon_cancer_screening_5">(ii) A Colonoscopy</string>
+    <string name="colon_cancer_screening_6">Fecal Occult Blood Test (FOBT): </string>
+    <string name="colon_cancer_screening_7">This is a take-home stool test that you can do in privacy of your own home. It tests for microscopic blood in your bowel movement (blood you cannot even see with your eyes). If there is an early cancer in your colon, it may be shedding off tiny amounts of blood, and this test can help detect it and prompt further investigation (by getting a colonoscopy). This is a quick, easy, and painless test.</string>
+    <string name="colon_cancer_screening_8">There are some problems with this FOBT test, though. It is not as accurate as a colonoscopy. It can miss about 30% (one third) of colon cancers. (However, if you do the test every year or two, the accuracy is better and it picks up most of the early cancers). The FOBT is also not good at picking up the polyps (the early start of a colon cancer) because polyps often do not shed blood.</string>
+    <string name="colon_cancer_screening_9">Another problem with the FOBT is that it cannot distinguish the source of the bleeding. For example, a bleeding hemorrhoid or even a bleeding stomach ulcer can cause the test to come back positive for blood.</string>
+    <string name="colon_cancer_screening_10">Colonoscopy:</string>
+    <string name="colon_cancer_screening_11">You may know of friends or family who have had colonoscopies. Basically, you take a strong laxative the day before the procedure to totally clean out your bowel. You then go into the hospital for the procedure (but you are in and out the same day). They give you medications to doze you off, so you do not remember or feel anything, and then they go up inside your bottom end with a scope (which is basically a small video camera on the end of thin a flexible hose). From there, the doctor can directly see inside your colon wall and can see if there are any cancers or polyps. If they see a polyp, they can remove it right then and there before it ever turns into a cancer.</string>
+    <string name="colon_cancer_screening_12">The colonoscopy is a better test in that the doctor can actually directly see inside your colon. It is much more accurate. However, it is much more invasive and it does carry a very tiny risk of complication of popping through the bowel wall and requiring an operation to fix it (about 1 in 1000 to 1 in 10,000).</string>
+    <string name="colon_cancer_screening_13">WHAT TEST SHOULD YOU GET?</string>
+    <string name="colon_cancer_screening_14">If you have a direct family history (parents, siblings, or children) of colon cancer or even polyps, then you should get a colonoscopy. Remember to ask your family if they have had colonoscopies, what were the results? Even if it was “normal”, did they have any polyps? If so, you will need a colonoscopy as well.</string>
+    <string name="colon_cancer_screening_15">If you do not have a family history, then there is really no correct answer. Each test has its pros and cons, and it is whichever you prefer.</string>
+    <string name="colon_cancer_screening_16"><b>To get an FOBT, simply stop by our office and pick one up!</b></string>
+    <string name="colon_cancer_screening_17"><b>To book a colonoscopy, call our office and ask for a referral. Your doctor may need you to come in for a visit to discuss this first, though.</b></string>
+    <string name="concussions_1">Concussions are an injury to the brain. A concussion causes temporary changes in brain function that can affect thinking, vision, balance, and alertness. People with concussions usually have a headache. They may also feel confused, dazed, nausea, fuzzy vision, dizzy, or short term memory loss. Other symptoms include fatigue, trouble concentrating, and being irritable.</string>
+    <string name="concussions_2">Most people with mild concussions recover quickly. However, concussions need to be take seriously.</string>
+    <string name="concussions_3">Here is an excellent 10-minute video on concussions:</string>
+    <string name="concussions_4">CARING FOR A CONCUSSION AT HOME:</string>
+    <string name="concussions_5">• Watch closely in the first 24-48 hours for concerning symptoms (such as worsening headache, dizziness, drowsiness, fussiness, or irritability.</string>
+    <string name="concussions_6">• Check the person at least once during the first night sleep to make sure he/she easily wakes up and is acting normally.</string>
+    <string name="concussions_7">• Allow plenty of rest (“brain rest”).</string>
+    <string name="concussions_8">• Allow gradual return to activities as discussed with your doctor (and as also shown in the video above). Go slow and do not rush recovery!</string>
+    <string name="concussions_9">WHEN TO SEE A DOCTOR:</string>
+    <string name="concussions_10">• a child who won’t stop crying or cannot be comforted.</string>
+    <string name="concussions_11">• a headache that keeps getting worse.</string>
+    <string name="concussions_12">• weakness or numbness in any part of the body.</string>
+    <string name="concussions_13">• coordination or balance the gets worse.</string>
+    <string name="concussions_14">• vomiting more than once after the head injury.</string>
+    <string name="concussions_15">• slurred speech.</string>
+    <string name="concussions_16">• cannot be awakened from sleep.</string>
+    <string name="concussions_17">• increased confusion, irritability, or anxiety.</string>
+    <string name="concussions_18">• has <i>any</i> symptom that seems to be getting worse.</string>
+    <string name="concussions_vid"><![CDATA[<html><body><iframe width="%1$f" height="%2$f" src="https://www.youtube.com/embed/_55YmblG9YM" frameborder="0" </iframe></body></html>]]></string>
+    <string name="coughs_colds_and_sore_throats_1">People often suffer from infections that cause symptoms such as cough, runny nose, sinus congestion, sore throat, ear discomfort, and even mild fever or chills.</string>
+    <string name="coughs_colds_and_sore_throats_2">These infections are usually caused by a virus.</string>
+    <string name="coughs_colds_and_sore_throats_3">Most of the time, even people who think they have “Strep Throat” actually have a viral throat infection.</string>
+    <string name="coughs_colds_and_sore_throats_4"><b>The bad news:</b> antibiotics do not work on viruses.</string>
+    <string name="coughs_colds_and_sore_throats_5"><b>The good news:</b> Your body will fight off the virus on its own, usually within 5-10 days.</string>
+    <string name="coughs_colds_and_sore_throats_6">DID YOU KNOW?  Coughs, colds &amp; sore throats last longer than most people think. Most to the time, you will be sick for at least 10 days.</string>
+    <string name="coughs_colds_and_sore_throats_7">Here is Dr. Stewart’s Video to learn more:</string>
+    <string name="coughs_colds_and_sore_throats_8">Here is another excellent video you should watch:</string>
+    <string name="coughs_colds_and_sore_throats_9"></string>
+    <string name="coughs_colds_and_sore_throats_10"></string>
+    <string name="coughs_colds_and_sore_throats_11"></string>
+    <string name="coughs_colds_and_sore_throats_12"></string>
+    <string name="coughs_colds_and_sore_throats_13"></string>
+    <string name="coughs_colds_and_sore_throats_14"></string>
+    <string name="coughs_colds_and_sore_throats_15"></string>
+    <string name="coughs_colds_and_sore_throats_16"></string>
+    <string name="coughs_colds_and_sore_throats_17"></string>
+    <string name="coughs_colds_and_sore_throats_18"></string>
+    <string name="coughs_colds_and_sore_throats_19"></string>
+    <string name="coughs_colds_and_sore_throats_20"></string>
+    <string name="coughs_colds_and_sore_throats_21"></string>
+    <string name="coughs_colds_and_sore_throats_22"></string>
+    <string name="coughs_colds_and_sore_throats_23"></string>
+    <string name="coughs_colds_and_sore_throats_24"></string>
+    <string name="coughs_colds_and_sore_throats_25"></string>
+    <string name="coughs_colds_and_sore_throats_26"></string>
+    <string name="coughs_colds_and_sore_throats_27"></string>
+    <string name="coughs_colds_and_sore_throats_28"></string>
+    <string name="coughs_colds_and_sore_throats_29"></string>
 
 
     <string-array name="nav_drawer_items">
@@ -100,8 +184,8 @@
         <item>Angina</item>
         <item>Annual Physicals</item>
         <item>Asthma</item>
-        <item>Benzodiazepines</item>
         <item>Back Pain</item>
+        <item>Benzodiazepines</item>
         <item>Colon Cancer Screening</item>
         <item>Concussions</item>
         <item>Coughs, Colds &amp; Sore Throats</item>
