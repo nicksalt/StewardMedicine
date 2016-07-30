@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="375dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:src="@drawable/anxiety_and_depression"
+            android:layout_marginBottom="20dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_marginBottom="20dp"
+            android:text="@string/depression_1"
+            android:textSize="16sp"/>
+        <TextView
+            android:text="@string/depression_2"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="5dp"
+            android:clickable="true"
+            android:id="@+id/depression_button_1" />
+        <TextView
+            android:text="@string/depression_3"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="5dp"
+            android:clickable="true"
+            android:id="@+id/depression_button_2" />
+        <TextView
+            android:text="@string/depression_4"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="5dp"
+            android:clickable="true"
+            android:id="@+id/depression_button_3" />
+        <TextView
+            android:text="@string/depression_5"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="5dp"
+            android:clickable="true"
+            android:id="@+id/depression_button_4" />
+        <TextView
+            android:text="@string/depression_6"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="5dp"
+            android:clickable="true"
+            android:id="@+id/depression_button_5" />
+        <TextView
+            android:text="@string/depression_7"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="5dp"
+            android:clickable="true"
+            android:id="@+id/depression_button_6" />
+        <TextView
+            android:text="@string/depression_8"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp"
+            android:background="@android:color/transparent"
+            android:paddingBottom="5dp"
+            android:clickable="true"
+            android:id="@+id/depression_button_7" />
+    </LinearLayout>
+</ScrollView>

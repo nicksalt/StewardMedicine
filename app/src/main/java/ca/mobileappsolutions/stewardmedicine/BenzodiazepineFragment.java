@@ -45,21 +45,6 @@ public class BenzodiazepineFragment extends Fragment {
         TextView link1 = (TextView) view.findViewById(R.id.benzodiazepine_link_1);
         link1.setMovementMethod(LinkMovementMethod.getInstance());
         link1.setText(spanTxt, TextView.BufferType.SPANNABLE);
-
-       /* SpannableStringBuilder spanTxt2 = new SpannableStringBuilder(
-                "There are always better options than these medications. For trouble sleeping, check out ");
-        spanTxt2.append("Dr. Stewart’s advice for sleep and insomnia.");
-        spanTxt2.setSpan(new ClickableSpan() {
-            @Override
-            public void onClick(View widget) {
-                Intent sleep = new Intent(BenzodiazepineFragment.this, SleepFragment.class);
-                BenzodiazepineFragment.this.startActivity(sleep);
-            }
-        }, spanTxt2.length() - "Dr. Stewart’s advice for sleep and insomnia.".length(), spanTxt2.length(), 0);
-        spanTxt2.append(".");
-        TextView link2 = (TextView) view.findViewById(R.id.benzodiazepine_link_2);
-        link2.setMovementMethod(LinkMovementMethod.getInstance());
-        link2.setText(spanTxt2, TextView.BufferType.SPANNABLE);*/
     }
     public void setButtons(View view){
         TextView button1 = (TextView) view.findViewById(R.id.benzodiazepine_button_1);

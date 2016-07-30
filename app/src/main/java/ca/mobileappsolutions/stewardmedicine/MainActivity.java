@@ -5,9 +5,6 @@ import android.app.Fragment;
 import android.app.FragmentManager;
 import android.content.res.Configuration;
 import android.content.res.TypedArray;
-import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v4.app.ActionBarDrawerToggle;
@@ -53,7 +50,7 @@ public class MainActivity extends Activity {
         mDrawerList = (ListView) findViewById(R.id.list_slidermenu);
 
         navDrawerItems = new ArrayList<>();
-        for (int i = 0; i <= 30; i++) {
+        for (int i = 0; i <=29; i++) {
             navDrawerItems.add(new NavDrawerItem(navMenuTitles[i]));
         }
         mDrawerList.setOnItemClickListener(new SlideMenuClickListener());
@@ -61,10 +58,10 @@ public class MainActivity extends Activity {
         adapter = new NavDrawerListAdapter(getApplicationContext(),
                 navDrawerItems);
         mDrawerList.setAdapter(adapter);
-        Drawable transparentDrawable = new ColorDrawable(Color.TRANSPARENT);
         getActionBar().setDisplayHomeAsUpEnabled(true);
         getActionBar().setHomeButtonEnabled(true);
         getActionBar().setIcon(R.drawable.transparent);
+
 
         mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout,
                 R.drawable.ic_drawer, //nav menu toggle icon
@@ -128,6 +125,54 @@ public class MainActivity extends Activity {
                 break;
             case 7:
                 fragment = new ConcussionFragment();
+                break;
+            case 8:
+                fragment = new CoughsColdsSoreThroatsFragment();
+                break;
+            case 9:
+                fragment = new DepressionFragment();
+                break;
+            case 10:
+                fragment = new DiabetesFragment();
+                break;
+            case 11:
+                fragment = new DiarrheaFragment();
+                break;
+            case 12:
+                fragment = new EarInfectionFragment();
+                break;
+            case 13:
+                fragment = new FeverFragment();
+                break;
+            case 14:
+                fragment = new FinancialStrainFragment();
+                break;
+            case 15:
+                fragment= new HeadachesFragment();
+                break;
+            case 16:
+                fragment = new AnginaFragment();
+                break;
+            case 17:
+                fragment = new LiverFragment();
+                break;
+            case 18:
+                fragment = new MetamucilFragment();
+                break;
+            case 19:
+                fragment = new OsteoporosisFragment();
+                break;
+            case 20:
+                fragment = new PainFragment();
+                break;
+            case 21:
+                fragment = new PinkEyeFragment();
+                break;
+            case 22:
+                fragment = new ProstateCancerFragment();
+                break;
+            case 23:
+                fragment = new ShinglesFragment();
                 break;
             default:
                  break;
